@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940111367031",
+    "project_id": "cbudevelcode",
+    "storage_bucket": "cbudevelcode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940111367031:android:ba0b9e5bc069f530fe2f72",
+        "android_client_info": {
+          "package_name": "com.cbudevelcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940111367031-s0lophf00gbsrt1ogc66c0m207743u6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANgVL87qZyZ4Sd3c_RMej_9jT9Su_yU8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940111367031-s0lophf00gbsrt1ogc66c0m207743u6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
