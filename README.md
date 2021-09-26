@@ -5,7 +5,8 @@ Feito por Thales Mantovani Silva
 git clone git@github.com:Thales1/cbuDevelcode.git
 npm install
 
-yarn add @react-native-firebase/app__
+yarn add @react-native-firebase/app
+
 yarn add @react-native-firebase/database__
 yarn add @react-native-firebase/storage
 yarn add @react-navigation/bottom-tabs
